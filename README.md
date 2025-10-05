@@ -1,5 +1,6 @@
-# TheEndGames.github.io
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b8e7001e-b3d3-4a99-9ac9-3d4f690fd0b7" />
 
+# TheEndGames.github.io
 ## Notices *(IMPORTANT)*
 ### DO *NOT* USE THIS SITE IF A TEACHER IS WATCHING YOU ON SECURLY CLASSROOM (it will give you a notification if they do)
 ### ALWAYS CLOSE IT IF THEY OPEN CLASSROOM IMMEDIATELY WHEN YOU SEE THE NOTIFICATION
@@ -31,6 +32,7 @@ talk to me if you have any questions
 9 noticed the order being 4167
 
 10 laughed at it too
+
 
 ## links 
 
