@@ -7,6 +7,7 @@
 ## Notices *(IMPORTANT)*
 ### DO *NOT* USE THIS SITE IF A TEACHER IS WATCHING YOU ON SECURLY CLASSROOM (it will give you a notification when they start monitoring)
 ### ALWAYS CLOSE IT IF THEY OPEN CLASSROOM IMMEDIATELY WHEN YOU SEE THE NOTIFICATION
+### ALWAYS choose the option to run the game in an about:blank site (check the link in the searchbar, it makes it so that it doesnt appear in history and (im not certain though) I think it also makes it so teachers cant see) 
 ## Welcome
 hello welcome to my beautifully crafted website
 
