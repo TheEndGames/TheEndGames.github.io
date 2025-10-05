@@ -1,8 +1,11 @@
+
+
+# TheEndGames
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b8e7001e-b3d3-4a99-9ac9-3d4f690fd0b7" />
 
-# TheEndGames.github.io
+# Welcome to my website, read everything before you use any links please I beg, 1 minute of reading from you protects this site from being blocked
 ## Notices *(IMPORTANT)*
-### DO *NOT* USE THIS SITE IF A TEACHER IS WATCHING YOU ON SECURLY CLASSROOM (it will give you a notification if they do)
+### DO *NOT* USE THIS SITE IF A TEACHER IS WATCHING YOU ON SECURLY CLASSROOM (it will give you a notification when they start monitoring)
 ### ALWAYS CLOSE IT IF THEY OPEN CLASSROOM IMMEDIATELY WHEN YOU SEE THE NOTIFICATION
 ## Welcome
 hello welcome to my beautifully crafted website
