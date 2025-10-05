@@ -42,5 +42,8 @@ talk to me if you have any questions
 
 <a href="https://theendgames.github.io/dinkarune/">  Deltarune! </a>
 
+<a href="https://theendgames.github.io/"> back to main page </a> (i need this for reasons, its literally a linl to this website)
+
+
 <a href="link placeholder">  </a>
 
