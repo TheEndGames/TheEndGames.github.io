@@ -38,5 +38,8 @@ talk to me if you have any questions
 
 
 ## links 
+<a href="https://theendgames.github.io/Its-Alive/"> Over 552 things to do! (this is MF DOOM) </a>
+<a href="https://theendgames.github.io/dinkarune/">  Deltarune! </a>
 
-https://theendgames.github.io/Its-Alive/ 
+<a href="link placeholder">  </a>
+
