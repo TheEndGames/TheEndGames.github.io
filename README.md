@@ -43,7 +43,7 @@ talk to me if you have any questions
 
 <a href="https://theendgames.github.io/dinkarune/">  Deltarune! </a>
 
-<a href="https://github.com/TheEndGames/EndersBox"> Ender'sBox! </a> (slaarmoosbox) Music making software ONLINE! find me in the cafeteria in the morning if you want help or if you want to hear my songs
+<a href="https://theendgames.github.io/EndersBox/"> Ender'sBox! </a> (slaarmoosbox) Music making software ONLINE! find me in the cafeteria in the morning if you want help or if you want to hear my songs
 
 <a href="https://theendgames.github.io/"> back to main page </a> (i need this for reasons, its literally a link to this website)
 
