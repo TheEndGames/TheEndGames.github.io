@@ -1,3 +1,20 @@
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="/Insecurly%20%20New%20PNG.png">
 </head>
+<body>
+  <div id="readme"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    // Fetch the README.md file from your GitHub repo
+    fetch('https://raw.githubusercontent.com/TheEndGames/TheEndGames.github.io/main/README.md')
+      .then(response => response.text())
+      .then(markdown => {
+        // Convert Markdown to HTML and insert into the page
+        document.getElementById('readme').innerHTML = marked.parse(markdown);
+      })
+      .catch(error => {
+        document.getElementById('readme').innerHTML = "<p>Could not load README.md.</p>";
+        console.error(error);
+      });
+  </script>
+</body>
